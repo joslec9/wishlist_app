@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		<div class="container">
 			<div class="row">
 				<h5>Your Wish list</h5>
-				<table class='striped'>
+				<table class='striped table-bordered'>
 					<thead>
 						<th>Item</th>
 						<th>Added by</th>	
@@ -51,7 +51,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		<div class="container">
 			<div class="row">
 				<h5>Other Users' Wish list</h5>
-				<table class='striped'>
+				<table class='striped table-bordered'>
 					<thead>
 						<th>Item</th>
 						<th>Added by</th>	
